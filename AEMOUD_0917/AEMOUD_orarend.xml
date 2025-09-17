@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NG_orarend>
     <ora id="GEIAL332-B" tipus="Elmelet">
-        <targy id="Adatkezelés XML-ben" />
+        <targy>Adatkezelés XML-ben</targy>
         <idopont>
             <nap>Szerda</nap>
             <tol>08:00</tol>
@@ -12,7 +12,7 @@
         <szak>Programtervezo Informatikus</szak>
     </ora>
     <ora id="GEIAL332-B" tipus="Gyakorlat">
-        <targy id="Adatkezelés XML-ben" />
+        <targy>Adatkezelés XML-ben</targy>
         <idopont>
             <nap>Szerda</nap>
             <tol>10:00</tol>
@@ -23,7 +23,7 @@
         <szak>Programtervezo Informatikus</szak>
     </ora>
     <ora id="GEIAK310-B" tipus="Gyakorlat">
-        <targy id="Játék prototípusok" />
+        <targy>Jatek prototipusok</targy>
         <idopont>
             <nap>Csutortok</nap>
             <tol>14:00</tol>
